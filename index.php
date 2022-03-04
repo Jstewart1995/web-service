@@ -1,6 +1,6 @@
 <html>
 <head>
-<title> NBA Teams Web Services</title>
+<title> NBA Teams' Web Services</title>
 <style>
 body {font-family:georgia;}
 
